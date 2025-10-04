@@ -66,8 +66,8 @@ db.tasks.createIndex({ title: "text", description: "text" })
 ---
 
 ## Deployment
-- Backend deployed (Express mock API) → Vercel
-- Frontend deployed (Vue.js) → Vercel
+- Backend deployed (Express mock API) → Vercel → [https://mileapp-frontend.vercel.app](https://mileapp-backend.vercel.app/)
+- Frontend deployed (Vue.js) → Vercel → https://mileapp.vercel.app
 
 ---
 
