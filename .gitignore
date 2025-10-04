@@ -15,3 +15,5 @@ frontend/junit.xml
 frontend/.env
 frontend/.env.*
 !frontend/.env.example
+
+backend/node_modules/
