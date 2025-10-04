@@ -66,8 +66,8 @@ db.tasks.createIndex({ title: "text", description: "text" })
 ---
 
 ## Deployment
-- Backend deployed (Express mock API) → [e.g., Render/Railway]  
-- Frontend deployed (Vue.js) → [e.g., Vercel/Netlify]  
+- Backend deployed (Express mock API) → Vercel
+- Frontend deployed (Vue.js) → Vercel
 
 ---
 
